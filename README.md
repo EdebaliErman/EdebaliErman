@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**EdebaliErman/EdebaliErman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Hello Guys </h1>
+<h3>Welcome to my profile</h3>
+<h5>
+  Here you can see the languages ​​and projects I use. 
+  You can comment as you wish.
+  This makes me very happy and 
+  I can make up for the shortcomings you see on my own.
+<h5>
+<hr>
+  <img  align="left src="https://github-readme-stats.vercel.app/api?username=EdebaliErman&show_icons=true&theme=radical" alt="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdebaliErman&layout=compact" alt="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdebaliErman&layout=compact" alt="">
+<hr>
