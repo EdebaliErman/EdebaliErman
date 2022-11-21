@@ -7,7 +7,10 @@
   I can make up for the shortcomings you see on my own.
 <h5>
 <hr>
-  <img  align="left src="https://github-readme-stats.vercel.app/api?username=EdebaliErman&show_icons=true&theme=radical" alt="">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdebaliErman&show_icons=true&theme=radical)
+                                                                                                                               
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdebaliErman&layout=compact" alt="">
+                                                                                                                           
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdebaliErman&layout=compact" alt="">
-<hr>
+
