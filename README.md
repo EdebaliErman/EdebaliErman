@@ -22,7 +22,7 @@
   I can make up for the shortcomings you see on my own.
 <h5>
   
-  <img src="https://thumbs.gfycat.com/AmazingThriftyDutchshepherddog-mobile.mp4"></img>
+
 
   <hr>
   
