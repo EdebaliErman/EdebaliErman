@@ -1,19 +1,9 @@
 <hr>
 
 <h1> 
-  <img
-      src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png"
-      alt="Cat with Tears of Joy"
-      width="25"
-      height="25"
-    />
+ <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
   Hello Guys 
-  <img
-  src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-photo.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
-/> </h1>
+ <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> </h1>
 <h3>Welcome to my profile</h3>
 <h5>
   Here you can see the languages ​​and projects I use. 
