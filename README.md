@@ -3,7 +3,7 @@
 <h1> 
  
  
- <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7B723&background=7DFF3100&width=435&lines=Hi+guys+Edebali+Erman+)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
+<img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hi+guys+me+Edebali+Erman)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
 
   </h1>
 <h3>Welcome to my profile</h3>
