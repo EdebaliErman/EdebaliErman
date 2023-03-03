@@ -1,3 +1,5 @@
+<div align="center">
+
 <hr>
 
 <h1> 
@@ -6,7 +8,11 @@
 <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hi+guys+me+Edebali+Erman)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
 
   </h1>
-<h3>Welcome to my profile</h3>
+<h3>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56aad1&width=435&lines=WELL+COME+TO+GUYS)](https://git.io/typing-svg)
+ 
+ </h3>
 <h5>
   Here you can see the languages ​​and projects I use. 
   You can comment as you wish.
@@ -25,7 +31,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdebaliErman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdebaliErman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdebaliErman&theme=nord)](https://github.com/EdebaliErman)
 ---
                                                                                                            
  
 
+ </div>
