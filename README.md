@@ -31,9 +31,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdebaliErman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdebaliErman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdebaliErman&theme=nord)](https://github.com/EdebaliErman)
----
-                                                                                                           
+                                                                                                      
  
 
  </div>
