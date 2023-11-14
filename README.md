@@ -10,7 +10,7 @@
   </h1>
 <h3>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56aad1&width=435&lines=WELL+COME+TO+GUYS)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56aad1&width=435&lines=WELLCOME+TO+GUYS)](https://git.io/typing-svg)
  
  </h3>
  <img src="https://media.giphy.com/media/SUlfJOJLzrlcc/giphy.gif"/>
