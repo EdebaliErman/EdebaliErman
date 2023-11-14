@@ -5,12 +5,12 @@
 <h1> 
  
  
-<img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hi+guys+me+Edebali+Erman)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
+<img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hi+guys+I+am+Edebali+Erman)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
 
   </h1>
 <h3>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56aad1&width=435&lines=WELLCOME+TO+GUYS)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56aad1&width=435&lines=WELCOME+GUYS)](https://git.io/typing-svg)
  
  </h3>
  <img src="https://media.giphy.com/media/SUlfJOJLzrlcc/giphy.gif"/>
