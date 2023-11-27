@@ -5,7 +5,7 @@
 <h1> 
  
  
-<img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hi+guys+I+am+Edebali+Erman)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
+<img  src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hi+guys+I+am+Edebali+Erman)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
 
   </h1>
 <h3>
@@ -13,7 +13,13 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56aad1&width=435&lines=WELCOME+GUYS)](https://git.io/typing-svg)
  
  </h3>
- <img src="https://media.giphy.com/media/SUlfJOJLzrlcc/giphy.gif"/>
+
+###
+
+<img  src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif"/>
+<img  src="https://media4.giphy.com/media/tQquQUIVWzzcA/giphy.gif?cid=ecf05e47wmnj9ugopimfg9lc6u9vxsa0ilug2i7z7frmo566&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
+ 
 <h5>
   Here you can see the languages ​​and projects I use. 
   You can comment as you wish.
@@ -39,6 +45,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
                                           
- <img src="https://media.giphy.com/media/GyKZSutfyIXsI/giphy.gif"/>
+ <img width="100%" src="https://media.giphy.com/media/GyKZSutfyIXsI/giphy.gif"/>
 
  </div>
