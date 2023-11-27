@@ -38,8 +38,7 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Snake animation](https://github.com/{{EdebaliErman}}/{{EdebaliErman}}/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EdebaliErman&icon=0&color=5)](https://visitcount.itsvg.in)
