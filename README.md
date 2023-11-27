@@ -20,7 +20,6 @@
   This makes me very happy and 
   I can make up for the shortcomings you see on my own.
 <h5>
- <h1 align="center">Hi 👋! My name is Edebali ERMAN and I'm a Front-end Developer</h1>
 
 ###
 
